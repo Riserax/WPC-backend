@@ -3,7 +3,7 @@
       {
         "messageId": "19dd0b57-b21e-4ac1-bd88-01bbb068cb78",
         "receiptHandle": "MessageReceiptHandle",
-        "body": "{\"email\":\"test@example.com\",\"photos\":[\"uek-krako/eu-central-1:5f3db60e-accc-4b9c-a9ca-ea11778b88f0/images/53b26e53-0120-4236-965d-0660a99ce817/2020-11-19_12h43_58.png\",\"uek-krako/eu-central-1:5f3db60e-accc-4b9c-a9ca-ea11778b88f0/images/54ecd1e2-a89b-4cec-947a-39aa8d789505/2021-04-20_16h54_52.png\"],\"request_id\":\"123qwe\"}",
+        "body": "{\"email\":\"test@example.com\",\"photos\":[\"uek-krakow/eu-central-1:5f3db60e-accc-4b9c-a9ca-ea11778b88f0/images/ec7e6fe2-9191-40a6-9f74-b55a74805fb0/bridge_construction_road_118970_3840x2160.jpg\",\"uek-krakow/eu-central-1:5f3db60e-accc-4b9c-a9ca-ea11778b88f0/images/ef1c3a06-10db-4c32-881c-c9ac8ae4ea47/coastal_city_coast_sea_125251_3840x2160.jpg\"],\"request_id\":\"123qwe\"}",
         "attributes": {
           "ApproximateReceiveCount": "1",
           "SentTimestamp": "1523232000000",
